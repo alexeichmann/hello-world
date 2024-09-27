@@ -42,8 +42,8 @@ Hello_World/
   
 ## Additional Documentation
 
-Currently there is no additonal documentation. I will take a page out of Professor Arens' book and show some **Bold** text.
+Currently there is no *additonal documentation* at this time.
 
 ## Versioning
 
-If you are making *large changes* to the code, discuss it here.
+If you are making **large changes** to the code, discuss it here.
