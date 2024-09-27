@@ -1,4 +1,4 @@
-**BAIS Pro Prep**
+###**BAIS Pro Prep**
 
 ## Table of contents
 
@@ -42,7 +42,7 @@ Hello_World/
   
 ## Additional Documentation
 
-Currently there is no additonal documentation. I will take a page out of Professor Arens book and show some **Bold** text.
+Currently there is no additonal documentation. I will take a page out of Professor Arens' book and show some **Bold** text.
 
 ## Versioning
 
