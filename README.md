@@ -1,4 +1,4 @@
-###**BAIS Pro Prep**
+**BAIS Pro Prep**
 
 ## Table of contents
 
